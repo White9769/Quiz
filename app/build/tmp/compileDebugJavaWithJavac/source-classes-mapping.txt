@@ -1,0 +1,50 @@
+com/example/quiz/MainActivity/StartFragment.java
+ com.example.quiz.MainActivity.StartFragment
+com/example/quiz/MainActivity/ModFragment.java
+ com.example.quiz.MainActivity.ModFragment
+ com.example.quiz.MainActivity.ModFragment$1
+ com.example.quiz.MainActivity.ModFragment$1TaskToQueryTheNetwork
+ com.example.quiz.MainActivity.ModFragment$2
+ com.example.quiz.MainActivity.ModFragment$3
+com/example/quiz/MainActivity/LoadFragment.java
+ com.example.quiz.MainActivity.LoadFragment
+com/example/quiz/Request/Expectation.java
+ com.example.quiz.Request.Expectation
+com/example/quiz/GameActivity/PageFragment.java
+ com.example.quiz.GameActivity.PageFragment
+ com.example.quiz.GameActivity.PageFragment$1
+com/example/quiz/RecyclerView/DataAdapter.java
+ com.example.quiz.RecyclerView.DataAdapter
+ com.example.quiz.RecyclerView.DataAdapter$ViewHolder
+com/example/quiz/Data/QuizListModel.java
+ com.example.quiz.Data.QuizListModel
+com/example/quiz/MainActivity/RecordFragment.java
+ com.example.quiz.MainActivity.RecordFragment
+ com.example.quiz.MainActivity.RecordFragment$1
+com/example/quiz/MainActivity/MainActivity.java
+ com.example.quiz.MainActivity.MainActivity
+com/example/quiz/BuildConfig.java
+ com.example.quiz.BuildConfig
+com/example/quiz/GameActivity/GameActivity.java
+ com.example.quiz.GameActivity.GameActivity
+ com.example.quiz.GameActivity.GameActivity$1
+ com.example.quiz.GameActivity.GameActivity$MyFragmentPagerAdapter
+com/example/quiz/Request/Model/RetroModel.java
+ com.example.quiz.Request.Model.RetroModel
+com/example/quiz/Request/Model/Result.java
+ com.example.quiz.Request.Model.Result
+com/example/quiz/Data/PlayerInformation.java
+ com.example.quiz.Data.PlayerInformation
+com/example/quiz/Data/Counter.java
+ com.example.quiz.Data.Counter
+com/example/quiz/Data/Launcher.java
+ com.example.quiz.Data.Launcher
+com/example/quiz/Firebase.java
+ com.example.quiz.Firebase
+com/example/quiz/PlayerInformationComparator.java
+ com.example.quiz.PlayerInformationComparator
+com/example/quiz/Request/ApiInterface.java
+ com.example.quiz.Request.ApiInterface
+com/example/quiz/Request/NetworkRequest.java
+ com.example.quiz.Request.NetworkRequest
+ com.example.quiz.Request.NetworkRequest$1
